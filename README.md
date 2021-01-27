@@ -17,7 +17,9 @@ Link to web page: https://wes90.github.io/Web-design-challenge/Resources/assets/
 Link to files: https://github.com/Wes90/Web-design-challenge
 
 
+
 Plotly Dada Viz
+
 Languages: Javascript, Html Tools: Plotly
 
 Navel Biodiversity Dashboard In this assignment, I was given a dataset of belly button biodiversity, which catalogs the microbes that colonize human navels, and to create a interactive dashboard to explore that dataset.
@@ -29,4 +31,5 @@ Bar Chart This graph shows the top 10 OTUs (operational taxonomic units) and the
 Bubble Chart The bubble chart utilizes the same data as the bar chart but with more color and different perspective. Hovering the cursor over a bubble will also show the OTU label.
 
 Link to dashboard: https://wes90.github.io/Plotly-Challenge/Navel_Bio/index.html
+
 Link to files: https://github.com/Wes90/Plotly-Challenge
