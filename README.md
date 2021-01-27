@@ -1,6 +1,6 @@
 # Wes90.github.io
 
-Web development project
+WEB DEVELOPMENT PROJECT
 
 Tools: Html, CSS, Bootstrap
 
@@ -18,7 +18,7 @@ Link to files: https://github.com/Wes90/Web-design-challenge
 
 
 
-Plotly Dada Viz
+PLOTLY DATA DASHBOARD
 
 Languages: Javascript, Html Tools: Plotly
 
