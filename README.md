@@ -18,6 +18,7 @@ Link to files: https://github.com/Wes90/Web-design-challenge
 
 
 
+
 PLOTLY DATA DASHBOARD
 
 Languages: Javascript, Html Tools: Plotly
