@@ -12,6 +12,6 @@ Comparison page: This section will display a clear visual of all of the data ima
 
 Data page: The Data section contains a table of the entire data that has been analyzed. This is very useful if the user wants to find the exact data from each city in the analysis. Also has the navigation bar with the "Latitude" home button.
 
-Link to files: https://github.com/Wes90/Web-design-challenge/blob/main
+Link to files: https://github.com/Wes90/Web-design-challenge
 
-Link to web page: https://wes90.github.io/Resources/assets/images/landing.html
+Link to web page: https://wes90.github.io/Wes90/Web-design-challenge/blob/mainResources/assets/images/landing.html
