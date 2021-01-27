@@ -12,6 +12,21 @@ Comparison page: This section will display a clear visual of all of the data ima
 
 Data page: The Data section contains a table of the entire data that has been analyzed. This is very useful if the user wants to find the exact data from each city in the analysis. Also has the navigation bar with the "Latitude" home button.
 
+Link to web page: https://wes90.github.io/Web-design-challenge/Resources/assets/images/landing.html
+
 Link to files: https://github.com/Wes90/Web-design-challenge
 
-Link to web page: https://wes90.github.io/Web-design-challenge/Resources/assets/images/landing.html
+
+Plotly Dada Viz
+Languages: Javascript, Html Tools: Plotly
+
+Navel Biodiversity Dashboard In this assignment, I was given a dataset of belly button biodiversity, which catalogs the microbes that colonize human navels, and to create a interactive dashboard to explore that dataset.
+
+Dropdown Menu The landing page will start with the first Subject ID information as well as data visuals. The dropdown menu contains the Subject ID's that the user can choose to see the plotted data on that subject.
+
+Bar Chart This graph shows the top 10 OTUs (operational taxonomic units) and the amount found of each OTU. The user can hover their cursor over the desired bar to display the OTU label.
+
+Bubble Chart The bubble chart utilizes the same data as the bar chart but with more color and different perspective. Hovering the cursor over a bubble will also show the OTU label.
+
+Link to dashboard: https://wes90.github.io/Plotly-Challenge/Navel_Bio/index.html
+Link to files: https://github.com/Wes90/Plotly-Challenge
