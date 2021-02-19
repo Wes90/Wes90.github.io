@@ -29,7 +29,6 @@ Link to web page: https://wes90.github.io/Web-design-challenge/Resources/assets/
 
 
 
-
 PLOTLY DATA DASHBOARD
 
 Languages: Javascript, Html Tools: Plotly
@@ -44,7 +43,10 @@ Bubble Chart The bubble chart utilizes the same data as the bar chart but with m
 
 Link to dashboard: https://wes90.github.io/Plotly-Challenge/Navel_Bio/index.html
 
-leaflet-challenge
+
+
+
+LEAFLET CHALLENGE
 
 language: Javasctipt, html library: Leaflet
 
