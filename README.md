@@ -1,6 +1,13 @@
 # Wes90.github.io
+Mobile device penetration vs. Economic stability
+Data notes:
 
-https://wes90.github.io/Mobile_vs_Economy/
+Account ownership - Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+).
+
+Per capita income - Income is calibrated to USD.
+
+Mobile subscriptions - Total mobile cellular subscriptions for the year.
+https://wes90.github.io/Mobile_vs_Economy/Code_files/home.html
 
 
 
@@ -19,7 +26,6 @@ Data page: The Data section contains a table of the entire data that has been an
 
 Link to web page: https://wes90.github.io/Web-design-challenge/Resources/assets/images/landing.html
 
-Link to files: https://github.com/Wes90/Web-design-challenge
 
 
 
@@ -38,4 +44,4 @@ Bubble Chart The bubble chart utilizes the same data as the bar chart but with m
 
 Link to dashboard: https://wes90.github.io/Plotly-Challenge/Navel_Bio/index.html
 
-Link to files: https://github.com/Wes90/Plotly-Challenge
+
