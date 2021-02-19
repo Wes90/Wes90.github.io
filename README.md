@@ -54,5 +54,6 @@ In this challenge I used data from the United States Geological Survey(USGS) to 
 
 On the Map shows the location, depth, and magnitude of each recorded datapoint. The depth reflects the color and the magnitude reflects the size of each datapoint. There is also a pop up feature that displays the data information when the user clicks on the datapoint.
 
-Link to Geo-map: https://wes90.github.io/Leaflet-Step-1/index.html
+Link to Geo-map: https://wes90.github.io/leaflet-challenge/Leaflet-Step-1/index.html
+
 
