@@ -22,7 +22,7 @@ https://wes90.github.io/Mobile_vs_Economy/Code_files/home.html
 
 
 
-##PLOTLY DATA DASHBOARD
+## PLOTLY DATA DASHBOARD
 
 **Languages: Javascript, Html Tools: Plotly**
 
@@ -39,7 +39,7 @@ Link to dashboard: https://wes90.github.io/Plotly-Challenge/Navel_Bio/index.html
 
 
 
-##LEAFLET CHALLENGE
+## LEAFLET CHALLENGE
 
 **language: Javasctipt, html library: Leaflet**
 
