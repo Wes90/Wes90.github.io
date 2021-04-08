@@ -1,6 +1,6 @@
 # Wes90.github.io
 
-Telecom-Data-Analysis
+##Telecom-Data-Analysis
 
 
 For this project, I decided to find a telecommunication dataset to analize, create a dashboard, and build models to predict the churn of clients. The data contains information about almost six thousand users, their demographic characteristics, the services they use, the duration of using the operator's services, the method of payment, and the amount of payment.
@@ -9,9 +9,9 @@ https://wes90.github.io/Telecom-Data-Analysis/CodeFiles/home.html
 
 
 
-Mobile device penetration vs. Economic stability
+##Mobile device penetration vs. Economic stability
 
-Data notes:
+**Data notes:**
 
 Account ownership - Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+).
 Per capita income - Income is calibrated to USD.
@@ -22,9 +22,9 @@ https://wes90.github.io/Mobile_vs_Economy/Code_files/home.html
 
 
 
-PLOTLY DATA DASHBOARD
+##PLOTLY DATA DASHBOARD
 
-Languages: Javascript, Html Tools: Plotly
+**Languages: Javascript, Html Tools: Plotly**
 
 Navel Biodiversity Dashboard In this assignment, I was given a dataset of belly button biodiversity, which catalogs the microbes that colonize human navels, and to create a interactive dashboard to explore that dataset.
 
@@ -39,9 +39,9 @@ Link to dashboard: https://wes90.github.io/Plotly-Challenge/Navel_Bio/index.html
 
 
 
-LEAFLET CHALLENGE
+##LEAFLET CHALLENGE
 
-language: Javasctipt, html library: Leaflet
+**language: Javasctipt, html library: Leaflet**
 
 In this challenge I used data from the United States Geological Survey(USGS) to create a geo map using Leaflet. This contains the past 7 days of earthquake data and is updated every minute.
 
