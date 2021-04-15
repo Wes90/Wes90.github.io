@@ -9,7 +9,7 @@ https://wes90.github.io/Telecom-Data-Analysis/CodeFiles/home.html
 
 
 
-##Mobile device penetration vs. Economic stability
+## Mobile device penetration vs. Economic stability
 
 **Data notes:**
 
